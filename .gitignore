@@ -1,0 +1,78 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vite
+.vite/
+
+# Cobertura de pruebas
+coverage/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# JetBrains
+.idea/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Archivos generados
+*.tsbuildinfo
+
+# Firebase
+.firebase/
+
+# Supabase
+.supabase/
+
+# Archivos de despliegue
+.vercel/
+.netlify/
+
+# Certificados locales
+*.pem
+
+# Variables locales
+.env.*
+
+# Archivos comprimidos
+*.zip
+*.tar
+*.gz
+
+# Windows
+desktop.ini
+
+# MacOS
+.AppleDouble
+.LSOverride
