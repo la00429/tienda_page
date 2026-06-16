@@ -48,7 +48,7 @@ const HomePage = () => {
         {
             icon: Truck,
             title: 'Envío rápido',
-            description: 'Recibe tus productos en 24-48 horas en toda España'
+            description: 'Recibe tus productos en 24-48 horas en toda Colombia'
         }
     ];
 
